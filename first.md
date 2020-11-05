@@ -6,4 +6,3 @@ third
 
 fourth
 
-'717'
